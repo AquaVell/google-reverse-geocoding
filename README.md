@@ -3,6 +3,8 @@
 This project automates the process of converting coordinates into addresses by interacting with the Google Geocode API Playground.  
 It was built to handle large datasets (15k+ points) and demonstrates how to manage bulk geocoding tasks programmatically.
 
+![Demo of script](demo.gif)
+
 ## How it works
 - Prepare an `Input.xlsx` file containing a list of coordinates.  
 - Run the script, and it will output the corresponding addresses into a results file.  
