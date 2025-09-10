@@ -21,9 +21,10 @@ This project showcases:
 - The script could become unusable due to future changes made to the playground website.  
 
 ## Usage
-1. Fill `Input.xlsx` with your coordinates.  
-2. Run `main.py`.  
-3. Collect the output addresses from the generated file.  
+1. Fill `Input.xlsx` with your coordinates.
+2. Install requirements - `pip install -r requirements.txt`
+3. Run `main.py`.  
+4. Collect the output addresses from the generated file.  
 
 ## Disclaimer
 This project is intended **for learning and demonstration purposes only**.  
