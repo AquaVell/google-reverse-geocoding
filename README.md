@@ -13,10 +13,6 @@ It was built to handle large datasets (15k+ points) and demonstrates how to mana
 ## Why I built this
 I built this as a **proof of concept to avoid incurring API costs while experimenting with large-scale geocoding**.  
 I specifically needed **Google’s exact address matches**, so alternative free APIs (like OpenStreetMap) were not suitable for this project.
-This project showcases:  
-- Handling large input datasets  
-- Automating API interactions  
-- Adding fault-tolerance with save states  
 
 ## Limitations
 - The scraping method is not 100% reliable, and occasional crashes may occur but the save state prevents having to start over every time it happens.  
